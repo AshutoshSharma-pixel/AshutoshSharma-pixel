@@ -17,7 +17,8 @@ I’m particularly interested in the space where **AI, design, and problem-solvi
 - Deep Learning  
 - AI-based Computer Vision  
 - UI/UX Design for Product Experiences  
-- End-to-End ML Project Development  
+- End-to-End ML Project Development
+- Data Science
 
 ---
 

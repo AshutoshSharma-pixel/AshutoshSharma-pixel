@@ -38,5 +38,5 @@ Curiosity and iteration are central to how I approach both projects and problem 
 
 ## Connect
 
-- LinkedIn: https://linkedin.com/in/YOUR-USERNAME
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/ashutosh-sharma-79557728a/
+- Email: itsashutosh769@gmail.com

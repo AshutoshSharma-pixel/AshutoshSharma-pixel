@@ -1,43 +1,63 @@
 
 # Hi, I'm Ashutosh Sharma 👋
 
-B.Tech CSE (Data Science) student at **Manipal University Jaipur**.
+Open Source Contributor | AI & Systems Developer | B.Tech CSE (Data Science)  
 
-I enjoy building real projects and presenting them in competitive environments rather than only studying theory. My work explores areas across **machine learning, deep learning, UI/UX, and application development**, with a focus on turning technical ideas into usable systems.
-
-Over the past year, projects I’ve worked on have been **shortlisted at national platforms including IIT Madras, IIM Indore, and IIIT Nagpur**.
-
-I’m particularly interested in the space where **AI, design, and problem-solving meet**, building technology that is not only powerful but also practical.
+I build real-world systems at the intersection of AI, developer tools, and scalable products, with a focus on turning ideas into usable solutions.
 
 ---
 
-## Areas of Interest
+##  Open Source Contributions
+- MetaCall  (GSOC 2026)
+  - 5 merged PRs fixing memory leaks, CI pipelines, and 145+ TypeScript errors  
+  - Improved VS Code extension stability and performance  
 
-- Machine Learning  
-- Deep Learning  
-- AI-based Computer Vision  
-- UI/UX Design for Product Experiences  
-- End-to-End ML Project Development
-- Data Science
+- API DASH (GSOC 2026)
+- Buit the prototype for the MCP Integration.
+  
+- CNCF / Kubernetes Ecosystem (Headlamp Plugins) (Linux Foundation) 
+  - PR #658 approved (awaiting merge)  
+  - Multiple PRs under active review by maintainers  
 
----
-
-## Approach
-
-I believe the best way to learn technology is by **building, experimenting, and improving through feedback**.  
-Curiosity and iteration are central to how I approach both projects and problem solving.
-
----
-
-## Current Focus
-
-- Strengthening technical depth in **AI and Machine Learning**
-- Developing stronger **product thinking**
-- Learning through **hands-on projects and real-world experimentation**
+- Built and tested a working MCP server (Claude Desktop + MCP Inspector)  
+- Contributing to API Dash (CLI + MCP architecture)  
 
 ---
 
-## Connect
+## 🚀 Products & Projects
+- Super Cart  
+  B2B SaaS self-checkout system for offline retail stores with QR-based billing and gatepass verification  
 
-- LinkedIn: https://www.linkedin.com/in/ashutosh-sharma-79557728a/
+- Nyaya AI  
+  AI-powered system for legal assistance (refine this with your exact use case)  
+
+- AstroWord  
+  AI-powered Vedic astrology platform (Next.js + FastAPI + Gemini)
+
+---
+
+## 🧠 Technical Focus
+- Machine Learning & Deep Learning  
+- AI Systems & Computer Vision  
+- Developer Tools (CLI, MCP, APIs)  
+- Backend & System Design  
+- End-to-End Product Development  
+
+---
+
+## 🏆 Achievements
+- Projects shortlisted at IIT Madras, IIM Indore, IIIT Nagpur  
+- Active open-source contributor with accepted and reviewed PRs  
+
+---
+
+## 🎯 Current Focus
+- Advancing in AI/ML systems  
+- Building developer tooling (MCP, APIs, CLI ecosystems)  
+- Scaling real-world SaaS products  
+
+---
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/ashutosh-sharma-79557728a/  
 - Email: itsashutosh769@gmail.com

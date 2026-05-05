@@ -5,6 +5,13 @@ Open Source Contributor | AI & Systems Developer | B.Tech CSE (Data Science)
 
 I build real-world systems at the intersection of AI, developer tools, and scalable products, with a focus on turning ideas into usable solutions.
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AshutoshSharma-pixel&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=AshutoshSharma-pixel&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AshutoshSharma-pixel&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ---
 
 ##  Open Source Contributions

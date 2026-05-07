@@ -1,7 +1,7 @@
 
 # Hi, I'm Ashutosh Sharma 👋
 
-Open Source Contributor | AI & Systems Developer | B.Tech CSE (Data Science)  
+Open Source Contributor | MetaCall (5 PRs) | CNCF Contributor | AI & Systems Developer
 
 I build real-world systems at the intersection of AI, developer tools, and scalable products, with a focus on turning ideas into usable solutions.
 

@@ -69,4 +69,4 @@ I build real-world systems at the intersection of AI, developer tools, and scala
 - LinkedIn: https://www.linkedin.com/in/ashutosh-sharma-79557728a/  
 - Email: itsashutosh769@gmail.com
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/api?username=AshutoshSharma-pixel&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
